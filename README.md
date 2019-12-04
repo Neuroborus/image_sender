@@ -5,6 +5,6 @@ Files
 =======================================
 File name           | File content
 --------------------|----------------------
-src/server.rs       | Server that sends image a picture to clients
+src/server.rs       | Server that sends image to clients
 src/client.rs       | Client example
 
